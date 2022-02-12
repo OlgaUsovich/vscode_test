@@ -1,0 +1,26 @@
+:root {
+    font-size: 20px;
+}
+
+*{
+    font-size: 1.3em;
+}
+
+.container {
+    background-color: blueviolet;
+    font-size: large;
+}
+/* 10 */
+
+#iddiv {
+    background-color: hotpink ;
+} 
+/* 100 */
+
+div {
+    background-color: gray;
+} /*1*/
+
+a {
+    color: rgb(113, 55, 151);
+}
